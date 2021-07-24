@@ -26,7 +26,7 @@ I tried different models of transfer learning like InceptionV3, mobilenet and re
 
 ## Model performance
 
-* Results:
+**Results:**
 
 * ROC- AUC score is 90.48826764106751
 * F1 score is 63.3240142985375 %
