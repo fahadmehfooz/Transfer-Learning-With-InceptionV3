@@ -4,6 +4,7 @@
 * Trained the model on 11740 images.
 * Dealt with class imbalance.
 * Transfer learning is applied to train the model.
+* Pretrained Model used: InceptionV3
 
 ## Languages Used 
 **Python Version:** 3.9.0
