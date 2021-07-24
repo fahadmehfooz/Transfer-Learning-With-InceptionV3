@@ -7,7 +7,7 @@
 
 ## Code and Resources Used 
 **Python Version:** 3.9.0
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, tensorflow, keras  
+**Packages:** Pandas, NumPy, sklearn, Matplotlib, TensorFlow, Keras.  
 
 ## Data Used
 * **Data taken from kaggle** : https://www.kaggle.com/ma7555/cat-breeds-dataset
@@ -22,12 +22,17 @@
 ## Model Building 
 
 First, I took a split on the data with training data as 75%. Then I chose the pretrained models to train on my data.
-I tried different models of transfer learning like InceptionV3, mobilenet and resnet50. However, I was getting the best results for InceptionV3.
+I tried different models of transfer learning like InceptionV3, mobile-net and resnet50. However, I was getting the best results for InceptionV3.
+
+## Metrics Used For Evaluation
+
+* ROC-AUC
+* F1-Score
 
 ## Model performance
 
 **Results:**
 
-* ROC- AUC score is 90.48826764106751
-* F1 score is 63.3240142985375 %
-* Test accuracy is :  65.844064950943 
+* The ROC- AUC score is: 90.48826764106751 %
+* The F1 score is: 63.3240142985375 %
+* The Test accuracy is: 65.844064950943 % 
