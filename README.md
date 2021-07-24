@@ -5,8 +5,12 @@
 * Dealt with class imbalance.
 * Transfer learning is applied to train the model.
 
-## Code and Resources Used 
+## Languages Used 
 **Python Version:** 3.9.0
+
+##Resources and Tools Used
+**Tools:** Jupyter Notebook
+
 **Packages:** Pandas, NumPy, sklearn, Matplotlib, TensorFlow, Keras.  
 
 ## Data Used
